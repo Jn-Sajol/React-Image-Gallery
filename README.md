@@ -1,8 +1,16 @@
-# React + Vite
+# Image Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple image gallery app built using React and the React DnD library for drag-and-drop functionality. It allows you to view, select, and arrange images within a grid.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View and organize images in a grid layout.
+- Select multiple images by clicking on them.
+- Drag and drop to rearrange the order of images.
+- Delete selected images.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- React DnD: A set of higher-order components for complex drag-and-drop interactions.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
